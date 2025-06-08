@@ -55,3 +55,6 @@ book recs are always welcome.
 </p>
 
 <p align="center">thanks for stopping by 🤍</p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" alt="kuromi ok gif" width="250"/>
+</p>
