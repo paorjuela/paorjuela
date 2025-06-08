@@ -36,7 +36,7 @@
 
 ---
 
-<h2 align="center">📫 reach me :-)</h2>
+<h2 align="center">📫 reach me</h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/paolaorjuelag">linkedin.com/in/paolaorjuelag</a> <br>
