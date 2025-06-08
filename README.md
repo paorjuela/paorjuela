@@ -37,10 +37,7 @@
 ---
 
 <h2 align="center">📫 reach me</h2>
-
-<p align="center">
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="paolaorjuelag" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/paolaorjuelag?trk=profile-badge">Paola Orjuela</a></div>
-               <br>
 open to learning and collaborating. <br>
 book recs are always welcome.
 <p align="center">
