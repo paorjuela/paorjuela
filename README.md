@@ -49,7 +49,7 @@ staying curious, always.
 <h2 align="center">📫 reach me :-)</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/paolaorjuela">linkedin.com/in/paolaorjuela</a> <br>
+<a href="https://linkedin.com/in/paolaorjuelag">linkedin.com/in/paolaorjuelag</a> <br>
 open to learning, collaborating, or just having a good conversation. <br>
 book recs are always welcome.
 </p>
