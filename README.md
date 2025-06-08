@@ -1,9 +1,7 @@
-<h1 align="center">hey, i’m paola 🌿</h1>
+### hey, i’m paola 🌿
 
-<p align="center">
-> computer science + engineering</p>
-  <p align="center">
-> i like building tech that helps; tools that inform, predict, or make someone’s life a bit easier.</p>
+> computer science + engineering
+> i like building tech that helps; tools that inform, predict, or make someone’s life a bit easier.
 
 ---
 
