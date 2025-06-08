@@ -36,16 +36,6 @@
 
 ---
 
-<h2 align="center">☁️ what i value...</h2>
-
-<p align="center">
-tech for social good. clean code. <br>
-asking questions. <br>
-staying curious, always.
-</p>
-
----
-
 <h2 align="center">📫 reach me :-)</h2>
 
 <p align="center">
