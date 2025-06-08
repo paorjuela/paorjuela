@@ -42,9 +42,6 @@
 <a href="https://linkedin.com/in/paolaorjuelag">linkedin.com/in/paolaorjuelag</a> <br>
 open to learning, collaborating, or just having a good conversation. <br>
 book recs are always welcome.
-</p>
-
-<p align="center">thanks for stopping by 🤍</p>
 <p align="center">
   <img src="https://media0.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" alt="kuromi ok gif" width="250"/>
 </p>
