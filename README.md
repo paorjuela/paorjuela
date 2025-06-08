@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/paolaorjuelag">linkedin.com/in/paolaorjuelag</a> <br>
-open to learning, collaborating, or just having a good conversation. <br>
+open to learning and collaborating. <br>
 book recs are always welcome.
 <p align="center">
   <img src="https://media0.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" alt="kuromi ok gif" width="250"/>
