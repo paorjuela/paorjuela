@@ -1,7 +1,7 @@
 ### hey, i’m paola 🌿
 
-> computer science + engineering
-> i like building tech that helps; tools that inform, predict, or make someone’s life a bit easier.
+→ computer science + engineering
+→ i like building tech that helps; tools that inform, predict, or make someone’s life a bit easier.
 
 ---
 
