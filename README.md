@@ -2,17 +2,6 @@
 
 <p align="center">
 - computer science + engineering <br>
-- i like building tech that helps; tools that inform, predict, or make someone’s life a bit easier.
-</p>
-
----
-
-<h2 align="center">🌱 right now, i’m exploring...</h2>
-
-<p align="center">
-- machine learning <br>
-- cybersecurity <br>
-- quantum computing (still wrapping my head around it, tbh)
 </p>
 
 ---
@@ -24,14 +13,6 @@
 → built a model to support early detection. <br>
 → focused on accuracy, feature importance, and explainability. <br>
 → 93% accuracy.
-</p>
-
-<br>
-
-<p align="center">
-<strong>código aurora</strong> <br>
-→ an encryption puzzle i created for a coding competition. <br>
-→ it was fun, a little mysterious, and got people thinking.
 </p>
 
 ---
