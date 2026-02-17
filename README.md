@@ -10,7 +10,7 @@
 <h2 align="center">💡 some projects i’ve loved</h2>
 
 <p align="center">
-<strong>breast cancer prediction</strong> <br>
+<strong>breast cancer prediction modelling</strong> <br>
 → built a model to support early detection. <br>
 → focused on accuracy, feature importance, and explainability. <br>
 → 93% accuracy.
