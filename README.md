@@ -6,5 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" alt="kuromi ok gif" width="250"/>
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhjMzhucG4xYnh1ODhmcmVkczkwbW5uMGhsNWhva2J5bWozMjRwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9oa3sE4IdWbqO61WGT/giphy.gif" alt="pusheen tired gif" width="250"/>
+</p>
+<p align="center">
+  <sub>⋆ (i like cats) ⋆</sub>
 </p>
