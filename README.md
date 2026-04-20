@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 hi, i’m paola</h1>
+<h1 align="center">🌷 hi, i’m paola</h1>
 
 <p align="center">
 - computer science + engineering <br>
